@@ -107,13 +107,13 @@
 			<groupId>io.grpc</groupId>
 			<artifactId>grpc-netty</artifactId>
 			<optional>true</optional>
-			<version>${grpc.version}</version>
+			<version>1.47.1</version>
 		</dependency>
 		<dependency>
 			<groupId>io.grpc</groupId>
 			<artifactId>grpc-protobuf</artifactId>
 			<optional>true</optional>
-			<version>${grpc.version}</version>
+			<version>1.47.1</version>
 		</dependency>
 		<dependency>
 			<groupId>io.grpc</groupId>
